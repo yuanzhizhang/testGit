@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a71db732-1c87-4bf0-920c-82690441b1c0" name="Default Changelist" comment="qwereqr分支" />
+    <list default="true" id="d1f74674-854f-4c32-9fc0-d91b35dffefc" name="Default Changelist" comment="qwereqr分支">
+      <change beforePath="$PROJECT_DIR$/test/src/st.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/st.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +87,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="qwereqr" />
